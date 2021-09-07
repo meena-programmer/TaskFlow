@@ -1,0 +1,20 @@
+{
+    "users":
+    [
+            {
+                "username":"developer@gmail.com",
+                "password":"developer",
+                "userType":"developer"
+            },
+            {
+                "username":"manager@gmail.com",
+                "password":"manager",
+                "userType":"manager"
+            },
+            {
+                "username":"admin@gmail.com",
+                "password":"admin",
+                "userType":"admin"
+            }
+    ]
+}
